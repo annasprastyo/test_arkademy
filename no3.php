@@ -1,5 +1,5 @@
 <?php 
-$ukuran=8;
+$ukuran=7;
 
 if ($ukuran%2 == 0) {
     echo "ukuran harus ganjil";
